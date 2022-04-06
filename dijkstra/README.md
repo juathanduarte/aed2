@@ -1,15 +1,13 @@
-# Trabalho implementação Grafos - AED2
+# Trabalho implementação algoritmo de Dijkstra - AED2
 
-## GRAFOS
+## DIJKSTRA
 
-Implementar um programa na linguagem de sua escolha, que permita a representação em memória de um grafo.
+Implementar um programa C para calcular os caminhos mínimos entre os vértices de um Grafo utilizando o algorítmo de Dijsktra.
 
-Este programa deve permitir a entrada dos vértices e os pesos das arestas, considere as seguintes funcionalidades:
-
-- Permitir o armazenamento de até 20 vértices
-- Fazer a leitura dos pesos das arestas de cada vértice
-- Considerar sempre vértices positivos
-- Mostrar os dados armazenados
+1. Permitir o armazenamento de até 20 vértices
+2. Fazer a leitura dos pesos das arestas de cada vértice
+3. Considerar sempre vértices positivos
+4. Mostrar o caminho mínimo entre dois vértices solicitados
 
 ## EXECUTANDO OS PROGRAMAS (compilação manual)
 
